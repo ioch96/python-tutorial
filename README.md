@@ -4,10 +4,10 @@ Python is a programming language that is very well suited for beginners and newc
 
 ## Overview
 
-- Comments
-  - Single-Line
-  - Inline
-  - Multi-Line (Docstrings)
+- [Comments](comments.md)
+  - [Single-Line](comments.md)
+  - [Inline](comments.md)
+  - [Multi-Line (Docstrings)](comments.md)
 
 ## ToDo
 
