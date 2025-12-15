@@ -2,6 +2,13 @@
 
 Python is a programming language that is very well suited for beginners and newcomers, while also offering everything advanced users and professionals need for programming. This course is an introduction and provides a solid starting point. It teaches up-to-date knowledge, which is why we write our Python code using the current Python version 3.
 
+## Overview
+
+- Comments
+  - Single-Line
+  - Inline
+  - Multi-Line (Docstrings)
+
 ## ToDo
 
 - Strings
