@@ -1,4 +1,4 @@
-# Python Variable Naming Conventions
+# Variable Naming Conventions
 
 This document explains **legal and illegal variable names** in Python, as well as common **naming styles** used when writing Python code. Understanding these rules and conventions helps you write readable and error-free programs.
 
