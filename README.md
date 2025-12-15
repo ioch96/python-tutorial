@@ -15,6 +15,7 @@ Python is a programming language that is very well suited for beginners and newc
   - [Checking Variable Types](basics.md)
   - [Strings and Quotation Marks](basics.md)
   - [Case Sensitivity](basics.md)
+- [Variable Naming Conventions](variable_names.md)
 
 ## ToDo
 
