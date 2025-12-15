@@ -1,6 +1,6 @@
-# Python Basics
+# Basics
 
-## Variables in Python
+## Variables
 
 A variable is used to store data in memory. In Python, you create a variable by assigning a value to a name using the `=` operator.
 
@@ -88,7 +88,7 @@ print(x)
 
 Use whichever style you prefer, but be consistent for readability.
 
-## Case Sensitivity in Python
+## Case Sensitivity
 
 Python is **case-sensitive**, meaning uppercase and lowercase letters are treated as different identifiers.
 
