@@ -1,6 +1,6 @@
-# Das Python-Tutorial
+# The Python Tutorial
 
-Python ist eine für Anfänger und Einsteiger sehr gut geeignete Programmiersprache, die später auch den Fortgeschrittenen und Profis alles bietet, was man sich beim Programmieren wünscht. Der Kurs ist eine Einführung und bietet einen guten Einstieg. Es wird aktuelles Wissen vermittelt - daher schreiben wir unseren Python-Code mit der aktuellen Python-Version 3.
+Python is a programming language that is very well suited for beginners and newcomers, while also offering everything advanced users and professionals need for programming. This course is an introduction and provides a solid starting point. It teaches up-to-date knowledge, which is why we write our Python code using the current Python version 3.
 
 ## ToDo
 
