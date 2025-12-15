@@ -8,6 +8,13 @@ Python is a programming language that is very well suited for beginners and newc
   - [Single-Line](comments.md)
   - [Inline](comments.md)
   - [Multi-Line (Docstrings)](comments.md)
+- [Basics](basics.md)
+  - [Variables](basics.md)
+  - [Dynamic Typing](basics.md)
+  - [Type Casting (Type Conversion)](basics.md)
+  - [Checking Variable Types](basics.md)
+  - [Strings and Quotation Marks](basics.md)
+  - [Case Sensitivity](basics.md)
 
 ## ToDo
 
